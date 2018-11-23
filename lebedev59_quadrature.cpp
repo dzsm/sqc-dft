@@ -1,6 +1,6 @@
 /* 
  *************************************************
- The Orignal points was derived from the code of:
+ The grid location points were taken from the code of:
  *************************************************
  
  C version: Dmitri Laikov
