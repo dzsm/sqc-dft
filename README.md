@@ -22,7 +22,8 @@ The idea is to be able to experiment with ETO style DFT code. ETO basis is intui
 However keep in mind that for performant simulation this code is not suitable. (However it could be eventually)
 
 TODO:
-
+ 
+ - What the natural path would be is to separate the core algorithms and put it into python environment, so that lebedev integrals could be evaulated there.
  - First of all, have a built in test case with solid results (for example compare with basic ADF results)
  - DIIS
  - better command line
